@@ -2,10 +2,10 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QMessageBox>
 #include <QSqlDatabase>
 #include <QtSql>
 #include <QSqlError>
-
 
 namespace Ui {
 class MainWindow;
